@@ -1,0 +1,12 @@
+# Folder proyek yang memiliki repository Git sendiri
+/Dos-Wifi/
+/Flag/
+/Hunter-AI/
+/ParamFind/
+/Path-scanner/
+/Pydorking/
+/Subdomain-finder/
+/phoneintel/
+
+# Catatan migrasi lokal
+/readme.txt
